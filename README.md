@@ -3,7 +3,7 @@
 ## Data Analyst | Sales and Marketing Analysis
 
 📧 Email: phamvohieuhanh@gmail.com  
-💼 LinkedIn: [Hannah Pham] https://www.linkedin.com/in/hannahpham
+💼 LinkedIn: [Hannah Pham] https://www.linkedin.com/in/hannahpham1512/
 
 Welcome to my GitHub profile! I am Hannah Pham, a dedicated and detail-oriented Data Analyst specializing in Sales and Marketing Analysis. I am passionate about leveraging data to uncover valuable insights that drive business growth and contribute to team success.
 
