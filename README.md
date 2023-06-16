@@ -1,6 +1,6 @@
 # Hannah Pham
 
-## Data Analyst | Sales and Marketing Analysis
+## Business Analyst | Sales and Marketing Analysis
 
 📧 Email: phamvohieuhanh@gmail.com  
 💼 LinkedIn: [Hannah Pham] https://www.linkedin.com/in/hannahpham1512/
