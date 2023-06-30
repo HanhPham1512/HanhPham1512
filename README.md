@@ -1,6 +1,6 @@
 # Hannah Pham
 
-## Business Analyst | Sales and Marketing Analysis
+## Analyst | Sales and Marketing Analysis
 
 📧 Email: phamvohieuhanh@gmail.com  
 💼 LinkedIn: [Hannah Pham] https://www.linkedin.com/in/hannahpham1512/
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am Hannah Pham, a dedicated and detail-oriented 
 
 ### 🔗 Portfolio
 
-To explore some of my previous projects and data analysis work, please visit my portfolio: [Hannah Pham's Portfolio] https://portfolio-hanhpham1512.vercel.app/
+To explore some of my previous projects and data analysis work, please visit my portfolio: [Hannah Pham's Portfolio] https://hannahpham-portfolio.vercel.app/
 ### 🛠 Technical Skills
 
 I possess a wide range of technical skills that empower me to tackle complex analytical tasks and deliver impactful results. Here are some of the tools and technologies I am proficient in:
